@@ -1,3 +1,12 @@
-﻿PortFolio Web
+# DAM2
+Trabajos y Proyectos 2019-2020
 
-Este es mi PortFolio para exponer los trabajos que voy realizando en mi aprendizaje diario y que mantendré siempre actualizado en la medida de lo posible.
+Abreviaturas de las carpetas contenidas en la rama DAM2:
+
+AD - Acceso a datos
+DI - Desarrollo de interfaces
+PMDM - Programación Multimedia y Dispositivos Móviles
+FCT - Formación en centros de trabajo (Prácticas en empresa)
+PFG - Proyecto fin de grado
+PSP - Programación de Servicios y Procesos
+SGE - Sistemas de gestión empresarial
